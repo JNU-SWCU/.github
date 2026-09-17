@@ -1,14 +1,16 @@
 <div align="center">
 
-# JNU SWCU Open Source Hub
+<img src="https://raw.githubusercontent.com/JNU-SWCU/.github/main/profile/sojoong_logo.png" alt="전남대학교 소프트웨어중심대학사업단" width="300" />
 
-**전남대학교 SW중심대학사업단 오픈소스 허브**
+# Open Source Hub
+
+**전남대학교 소프트웨어중심대학사업단 오픈소스 허브**
 
 학생이 오픈소스로 성장하는 과정을 설계하고, 운영하고, 기록합니다.
 
-[![Website](https://img.shields.io/badge/jnu--oss--hub.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jnu-oss-hub.com)
+[![Website](https://img.shields.io/badge/jnu--oss--hub.com-008735?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jnu-oss-hub.com)
+[![사업단](https://img.shields.io/badge/sojoong.kr-008735?style=for-the-badge&logoColor=white)](https://sojoong.kr)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JNU-SWCU/oss-hub)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/JNU-SWCU/oss-hub)
 
 </div>
 
@@ -42,6 +44,5 @@
 - 리뷰 승인 후 `main`에 병합합니다.
 
 <div align="center">
-<sub>Chonnam National University · Software-Centered University Project Group</sub>
+<sub>전남대학교 소프트웨어중심대학사업단 · Chonnam National University Software-Centered University Project Group</sub>
 </div>
-
